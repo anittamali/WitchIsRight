@@ -1,0 +1,11 @@
+#mycb{
+color: white;
+background-color:#6a5195;
+border-radius: 12px;
+font-family: "Varela Round";
+font-size : 18px;
+text-align: right;
+}
+#mycb option{
+background-color:#957DAF;
+}
